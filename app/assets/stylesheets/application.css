@@ -26,3 +26,17 @@
 	-webkit-background-size: cover;
 	min-height: 400px;
  }
+
+ .header-title {
+ 	font-size: 50px;
+ 	padding: 50px;
+ 	vertical-align: middle;
+ 	font-family: "Shadows Into Light Two", cursive;
+ 	color: #FFEBCD;
+ 	text-align: center;
+ 	position: relative;
+ 	background-color: #1d1d1d;
+ 	width: 350px;
+ 	margin: 0 auto;
+ 	top: 100px;
+ }
