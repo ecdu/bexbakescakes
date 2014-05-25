@@ -11,3 +11,18 @@
  *= require_self
  *= require_tree .
  */
+
+ body {
+ 	margin: 0px;
+ }
+
+ .header-banner {
+ 	background-image: url("cupcakes.jpg");
+ 	width: 100%;
+ 	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	min-height: 400px;
+ }
